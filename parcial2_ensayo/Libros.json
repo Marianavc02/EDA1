@@ -1,0 +1,9 @@
+{
+    "libros" : [
+        {"id":1, "titulo":"El Quijote", "autor":"Cervantes"},
+        {"id":2, "titulo":"Mil años de soledad", "autor":"Gabriel garcia Marquez"},
+        {"id":3, "titulo":"El perfume", "autor":"Patrick Suskind"},
+        {"id":4, "titulo":"La divina comedia", "autor":"Dante"},
+        {"id":5, "titulo":"El principito", "autor":"Antoine de Saint-Exupery"}
+    ]
+}
